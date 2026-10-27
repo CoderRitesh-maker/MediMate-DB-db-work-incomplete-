@@ -1,0 +1,1736 @@
+{
+  "doctors": [
+    {
+      "id": "dr001",
+      "name": "Dr. Ratandip Sonawane",
+      "specialization": "Surgeon",
+      "qualification": "MBBs,MS",
+      "experience": "5 years",
+      "rating": 5,
+      "reviewsCount": 359,
+      "consultationFee": 700,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Khandoba chowk akurdi",
+        "hospital": "AEGIS Multispeciality hospital"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "09:00-10:00",
+          "10:00-11:00",
+          "11:00-12:00",
+          "14:00-15:00",
+          "15:00-16:00",
+          "16:00-17:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "7447660789",
+        "email": "Ratandip870@gmail.com"
+      },
+      "services": [
+        "Heart Disease Treatment",
+        "Cardiac Surgery",
+        "Preventive Cardiology",
+        "Heart Failure Management"
+      ],
+      "languages": [
+        "English"
+      ],
+      "image": "",
+      "bio": "Dr. Sarah Johnson is a board-certified cardiologist with over 15 years of experience treating heart conditions. She specializes in preventive cardiology and heart failure management.",
+      "education": [
+        "MD - Harvard Medical School",
+        "Residency - Johns Hopkins Hospital",
+        "Fellowship - Mayo Clinic"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr002",
+      "name": "Dr. Suraj",
+      "specialization": "MD Physician",
+      "qualification": "MD",
+      "experience": "10 years",
+      "rating": 4.7,
+      "reviewsCount": 240,
+      "consultationFee": 700,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Chatrapati chowk,Wakad pune",
+        "hospital": "FOSHO"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "08:00-09:00",
+          "09:00-10:00",
+          "10:00-11:00",
+          "13:00-14:00",
+          "14:00-15:00",
+          "15:00-16:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "7410561984",
+        "email": "suraj769@gmail.com"
+      },
+      "services": [
+        "Headache Treatment",
+        "Diagnosis of cough",
+        "Skin alergies",
+        "Liver disease"
+      ],
+      "languages": [
+        "English"
+      ],
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=300&h=300&fit=crop&crop=face",
+      "bio": "Dr. Michael Chen is a leading neurologist specializing in headache disorders and epilepsy management with extensive research background.",
+      "education": [
+        "MD - Stanford University",
+        "PhD - Neuroscience, MIT",
+        "Residency - UCSF Medical Center"
+      ],
+      "insuranceAccepted": [
+        "Kaiser",
+        "Blue Cross",
+        "Anthem",
+        "Humana"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-02-01T14:20:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr003",
+      "name": "Dr. Ravikumar Bhaskar",
+      "specialization": "Surgeon",
+      "qualification": "MBBS",
+      "experience": "10 years",
+      "rating": 5,
+      "reviewsCount": 127,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Mayur samrudhhi,akurdi Gaothan,Phase-2",
+        "hospital": "Dr.Bhaskar surgical clinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "09:00-10:00",
+          "10:00-11:00",
+          "11:00-12:00",
+          "13:00-14:00",
+          "14:00-15:00",
+          "15:00-16:00",
+          "16:00-17:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "9356556065",
+        "email": "bhaskar78@gmail.com"
+      },
+      "services": [
+        "Laparoscopy",
+        "Circumcision surgery",
+        "burn treatement",
+        "Eczema Treatment"
+      ],
+      "languages": [
+        "English"
+      ],
+      "image": "https://images.unsplash.com/photo-1594824475953-87b5b4e2c0a6?w=300&h=300&fit=crop&crop=face",
+      "bio": "Dr. Emily Rodriguez is a board-certified dermatologist known for her expertise in both medical and cosmetic dermatology treatments.",
+      "education": [
+        "MD - University of Miami",
+        "Residency - Cleveland Clinic",
+        "Fellowship - Mohs Surgery"
+      ],
+      "insuranceAccepted": [
+        "Aetna",
+        "Cigna",
+        "UnitedHealth",
+        "Humana"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-03-10T09:15:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr004",
+      "name": "Dr. Tushar Adkar ",
+      "specialization": "Pediatrician & Neonatologist ",
+      "qualification": "DCH, DNB, MBBS",
+      "experience": "12 years",
+      "rating": 4.8,
+      "reviewsCount": 162,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Shop No. 109/110, Corner, Pristine Shatrunjay, Hriday Mother and Child Care Clinic, Bhondave, C Wing, DY Patil College Rd, Ravet",
+        "hospital": "Hriday Mother & Child Care Clinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-14:00, 17:30-21:30",
+          "10:00-14:00, 17:30-21:30",
+          "10:00-14:00, 17:30-21:30",
+          "10:00-14:00, 17:30-21:30",
+          "10:00-14:00, 17:30-21:30",
+          "10:00-14:00, 17:30-21:30"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09137877430",
+        "email": "tushar382@gmail.com"
+      },
+      "services": [
+        "Postnatal Care",
+        "Neonatal Nursing",
+        "Newborn Jaundice"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 12 years of healthcare experience, he has received positive reviews for his expertise, compassionate care, and friendly demeanor.",
+      "education": [
+        "DCH (Diploma In Child Health)- D Y Patil Dental College, Navi Mumbai",
+        "DNB (Pediatrics)- N.B.E, New Delhi",
+        "MBBS- King Edward Memorial Hospital And Seth Gordhandas Sunderdas Medical College"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr005",
+      "name": "Dr. Shri Pravin Ghadge",
+      "specialization": "General Physician",
+      "qualification": "BHMS",
+      "experience": " 9 years",
+      "rating": 4.2,
+      "reviewsCount": 37,
+      "consultationFee": 150,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "near Gurudwara,besides Akurdi Railway Station",
+        "hospital": "Gurukrupa polyclinic & health care centre"
+      },
+      "availability": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "9:00-14:00",
+          "9:00-14:00, 17:00-22:00",
+          "9:00-14:00, 17:00-22:00",
+          "9:00-14:00, 17:00-22:00",
+          "9:00-14:00, 17:00-22:00",
+          "9:00-14:00, 17:00-22:00",
+          "9:00-14:00, 17:00-22:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09822286811",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Women healthcheck",
+        "Vaccination",
+        "Erectile Dysfunction",
+        "Skin Care"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 9 years of experience in healthcare, he specialises in women healthcare",
+      "education": [
+        "BHMS-Bharti Vidyapeeth University Pune"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr006",
+      "name": "Dr. Kunal Shet",
+      "specialization": "Orthodontist,Implantologist , Dentist",
+      "qualification": "BDS,MDS- Orthodontics and Dentofacial Orthopaedics",
+      "experience": "14 years",
+      "rating": 4.8,
+      "reviewsCount": 1186,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Shop No 1, Sunscape Apartments, Akurdi Railway Station Rd",
+        "hospital": "Orthosquare"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "11:00-20:00",
+          "11:00-20:00",
+          "11:00-20:00",
+          "11:00-20:00",
+          "11:00-20:00",
+          "11:00-20:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09167195818",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Root Canal Treatment",
+        "Dental care",
+        "Facial Aesthetic",
+        "Dental Implants"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "As an Internationally recognized Implantologist, he is respected for his conviction towards work and dedication towards his patients.\n             He is a skilled Dentofacial Orthopedic and Orthodontist. ",
+      "education": [
+        "BDS (Dentist)- Annasaheb Chudaman Patil Memorial Dental College"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr007",
+      "name": "Dr. Manasi Harale",
+      "specialization": "General  Physician, Diabetologist",
+      "qualification": "MBBS,MD. Medicine",
+      "experience": "12 years",
+      "rating": 4.8,
+      "reviewsCount": 1429,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Rushabh Corner, Plot 29, Shri Mhalsakant Vidyalaya Rd, Sector No. 28, Pradhikaran, Nigdi",
+        "hospital": "Supreme Clinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "8:15-19:00",
+          "8:15-19:00",
+          "8:15-19:00",
+          "8:15-19:00",
+          "8:15-19:00",
+          "9:30-19:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09923462661",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Neurotherapy",
+        "Diabetes,Endocrinology",
+        "Thyroid Disorder",
+        "Obesity"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Dr. Manasi Harale is a General Physician, Diabetologist and Internal Medicine in Akurdi, Pune and has an experience of 4 years in these fields.\n             She is a member of Indian Medical Association (IMA)",
+      "education": [
+        "MBBS from B.J.Medical College, Pune",
+        " M.D General Medicine from B.J. Medical College, Pune and Sassoon General Hospital, Pune "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr008",
+      "name": "Dr.Sheetal Waykar ",
+      "specialization": "General Physician",
+      "qualification": "BHMS",
+      "experience": "8 years",
+      "rating": 4.9,
+      "reviewsCount": 15,
+      "consultationFee": 200,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "ABC Junction H-9 CHS Ltd., Shop No. 4, Upper Gr. Floor, Plot No. H-9 (Near Mahadev Mobile Shop HSector No.26, Near Akurdi Railway Station, Nigdi",
+        "hospital": "ALL IN ONE CLINIC"
+      },
+      "availability": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "08805979362",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Hair treatment",
+        "Ayurvedic Methods",
+        "Skin Care"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 8 years of experience in healthcare, she specialises in ayurvedic treatment and is considered to be patient friendly",
+      "education": [
+        "BHMS- BJMC,pune"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr009",
+      "name": "Dr. Pallav Bhatia",
+      "specialization": "Spine And Pain Specialist,Orthopedic surgeon,Spine Surgeon ",
+      "qualification": "MS - Orthopaedics, MBBS",
+      "experience": "19 years",
+      "rating": 4.5,
+      "reviewsCount": 1510,
+      "consultationFee": 1000,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Sector 27, Tilak Rd, Sector No. 24, Pradhikaran, Nigdi",
+        "hospital": "Lokmanya hospital "
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "13:00-15:00",
+          "13:00-15:00",
+          "13:00-15:00",
+          "13:00-15:00",
+          "13:00-15:00",
+          "13:00-15:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09881142101",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Lower Back Pain Treatment",
+        "Spinal Surgery",
+        "Leg Related Treatment"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "with over 19 years of overall experience. He specializes in spine and pain management, with expertise in procedures like minimally invasive spine surgery,\n             spinal fusion, and disc prolapse treatment. ",
+      "education": [
+        "MBBS from Saurashtra University   ",
+        "MS in Orthopaedics from M.P. Shah Government Medical College."
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr010",
+      "name": "Dr. Salil Patil ",
+      "specialization": "plastic and reconstructive surgeon",
+      "qualification": "MS and MCh in plastic surgery",
+      "experience": "14 years",
+      "rating": 3.8,
+      "reviewsCount": 643,
+      "consultationFee": 500,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Tilak Rd, Sector No. 27, Pradhikaran, Nigdi",
+        "hospital": "Dhanwantari Hospital"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-11:00",
+          "10:00-11:00",
+          "10:00-11:00",
+          "10:00-11:00",
+          "10:00-11:00",
+          "10:00-11:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "08605018483",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "cosmetic surgery",
+        "hair transplants",
+        "Plastic Surgery"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 14 years of experience, he specializes in a range of cosmetic and reconstructive procedures, including facial plastic surgery, scar revision,\n             and hair transplants.",
+      "education": [
+        "MCH (Plastic Surgery)- B.J. Medical College, Ahmedabad (Gujarat University)",
+        "MS (General Surgery)- B.J. Medical College, Ahmedabad (Gujarat University)",
+        "MBBS- U.Maha.Health Sciences, Nashik"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr011",
+      "name": "Dr. Vaibhav Kanse",
+      "specialization": "Ophthalmologist/ Eye Surgeon.",
+      "qualification": "MBBS, DO, DNB - Ophthalmology.",
+      "experience": "14 years",
+      "rating": 4.9,
+      "reviewsCount": 267,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Behind Nigdi Bus Stop, Office No 38 & 39, 2nd Floor, Bg Corner, Nigdi,",
+        "hospital": "Advait Eye & Women's Care Centre"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "9:00-14:00",
+          "9:00-14:00",
+          "9:00-14:00",
+          "9:00-14:00",
+          "9:00-14:00",
+          "9:00-14:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "08805710857",
+        "email": "@gmail.com"
+      },
+      "services": [
+        " Ocular trauma, Orbits",
+        "Contact Lens Prescription",
+        "Eye Redness and Scleral Contact Lens "
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With an experience of over 15 years, He is a member of Maharashtra Ophthalmological Society,All India Ophthalmological Society and Pune Ophthalmic society. ",
+      "education": [
+        "DNB (Ophthalmology)- Diplomate National Board-New Delhi",
+        "MBBS- B J Medical College, Pune",
+        "DO - Byramjee Jeejeebhoy Medical College, Pune"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr012",
+      "name": "Dr. Mohit Luthra",
+      "specialization": "General Medicine & Clinical Cardiology",
+      "qualification": "MBBS, MD, FIFC, FIAE",
+      "experience": "22 years",
+      "rating": 4.6,
+      "reviewsCount": 179,
+      "consultationFee": 600,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Sec No, 29 Plot, 1, Ravet High St, next to D-Mart, Sector 29, Ravet",
+        "hospital": "Global Hospital & Research Centre"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "11:00-15:00",
+          "11:00-15:00",
+          "11:00-15:00",
+          "11:00-15:00",
+          "11:00-15:00",
+          "11:00-15:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09356062962",
+        "email": "ghrc.helpdesk@gmail.com"
+      },
+      "services": [
+        "Cardiac catheterization.",
+        "Chest X-ray",
+        "Cardiac CT",
+        "Coronary angiogram."
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Being amongst the best General Medicine Specialist, Dr. Mohit Luthra constantly strives to provide the latest & the best medical services\n in the field of Internal Medicine",
+      "education": [
+        "MD- Russia University",
+        "MBBS-Bharati Vidyapeeth Deemed University Medical College"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr013",
+      "name": "Dr.S. Prashanth",
+      "specialization": " orthopedic and spine surgeon ",
+      "qualification": "DNB, MBBS",
+      "experience": " 20 years",
+      "rating": 4.8,
+      "reviewsCount": 135,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Akurdi Chikhali Rd, Sector No. 28, Pradhikaran, Nigdi",
+        "hospital": "PANORTHO HOSPITAL"
+      },
+      "availability": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-21:00",
+          "19:00-21:00",
+          "19:00-21:00",
+          "19:00-21:00",
+          "19:00-21:00",
+          "19:00-21:00",
+          "10:00-21:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "02027642764",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Hand Surgery",
+        "Vascular Surgery"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Caring hand & microvascular reconstructive surgeon with 19 years of experience; specializing in limb surgeries.",
+      "education": [
+        "DNB (Orthopedic Surgery)- Rajiv Gandhi University Of Health Sciences",
+        "MBBS- Kuvempu Univerisity"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr014",
+      "name": "Dr. Satyajeet Suryawanshi",
+      "specialization": " Interventional Cardiologist",
+      "qualification": "MBBS, FCPS (Medicine), DNB (Cardiology)",
+      "experience": "22 years",
+      "rating": 4.9,
+      "reviewsCount": 318,
+      "consultationFee": 500,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Bijli Nagar Rd, Pawana Nagar Housing Society, Chinchwad",
+        "hospital": "7 Orange Hospital"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "11:00-13:00",
+          "17:00-20:00",
+          "17:00-20:00",
+          "17:00-20:00",
+          "17:00-20:00",
+          "17:00-20:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "07350055754",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "pacemaker implants",
+        "cardiac intervention",
+        " electrophysiology"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With an experience of over 22 years, Dr. Suryawanshi has a special interest in pacemaker implants and is trained for implants of all pacemakers",
+      "education": [
+        "MBBS from Maharashtra University of Health Sciences ",
+        "FCPS (Medicine) from KEM Hospital, Pune",
+        "DNB (Cardiology) from the National Board of Examinations, New Delhi"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr015",
+      "name": "Dr. Aniruddha Tongaonkar ",
+      "specialization": " Internal Medicine, Cardiology ",
+      "qualification": "MBBS, MD (General Medicine), DNB (Internal Medicine) ",
+      "experience": "28 years",
+      "rating": 4,
+      "reviewsCount": 152,
+      "consultationFee": 500,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "815, Lane No. 1, near JBGUS Sansta, Akurdi Gaothan, Vivek Nagar, Akurdi",
+        "hospital": "Tongaonkar Hospital"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "11:00-14:00",
+          "11:00-14:00",
+          "11:00-14:00",
+          "11:00-14:00",
+          "11:00-14:00",
+          "11:00-14:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "02027245766",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Viral Fever",
+        "Stress Test",
+        "Dialysis"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Well-trained consultant physician with 27 years of experience; specializing in cardiology.",
+      "education": [
+        "DNB (General Medicine)- BJMC Pune",
+        "MD (General Medicine)- BJMC Pune",
+        "MBBS- BJMC"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr016",
+      "name": "Dr. Bhavna Solanki",
+      "specialization": "General Physician",
+      "qualification": "MD,BHMS",
+      "experience": "9 years",
+      "rating": 4.9,
+      "reviewsCount": 101,
+      "consultationFee": 300,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Tarte Biulding, Gaothan, Dattawadi, Akurdi",
+        "hospital": "Dr. Solanki's Clinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "17:30-21:30",
+          "17:30-21:30",
+          "17:30-21:30",
+          "17:30-21:30",
+          "17:30-21:30",
+          "17:30-21:30"
+        ]
+      },
+      "contactInfo": {
+        "phone": "08468928963",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Thyroid diseases",
+        "Hyperlipidemia,",
+        "Hypertension",
+        "Gastrointestinal diseases"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 9 years of experience in healthcare, she specializes in treatment related to Thyroid diseases ",
+      "education": [
+        "MD- B.J.Medical College.",
+        "BHMS- B.J.Medical College."
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr017",
+      "name": "Dr. Rameshwar Hudekar",
+      "specialization": "General Physician,Diabetologist,Thyroid & Cardio Diabetic Specialist",
+      "qualification": "MBBS,DNB",
+      "experience": "15 years",
+      "rating": 4.8,
+      "reviewsCount": 313,
+      "consultationFee": 600,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "87, Meditech diagnostics and Polyclinic, Plot No, behind Chitale Bandhu Mithaiwale, opposite Unity Bank, Shivala Colony, Sector 29, Ravet",
+        "hospital": "Atharvam Diagnostic & PolyclinicOpd"
+      },
+      "availability": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-12:00",
+          "10:00-12:00, 18:00-21:00",
+          "10:00-12:00, 18:00-21:00",
+          "10:00-12:00, 18:00-21:00",
+          "10:00-12:00, 18:00-21:00",
+          "10:00-12:00, 18:00-21:00",
+          "10:00-12:00, 18:00-21:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09325473139",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Abdominal Pain",
+        "Corona Virus",
+        "Infectious Disease"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Highly regarded General Physician and Diabetologist offering comprehensive medical care, specializing in treating common ailments.",
+      "education": [
+        "MBBS - RCSM GMC Kolhapur ",
+        " DNB - General Medicine from Nanavati Hospital "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr018",
+      "name": "Dr. Amar",
+      "specialization": "Pediatrician",
+      "qualification": "BHMS, DNB",
+      "experience": "12 years",
+      "rating": 4.8,
+      "reviewsCount": 110,
+      "consultationFee": 300,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Shop no.4, Nirman paradise, beside sudama pohe, near akurdi railway station, Nigdi",
+        "hospital": "Micro Analysis Pathology Lab"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "8:00-21:00",
+          "8:00-21:00",
+          "8:00-21:00",
+          "8:00-21:00",
+          "8:00-21:00",
+          "8:00-21:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09096062177",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Viral Fever",
+        "neurology",
+        "oncology"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With an experience of over 12 years, he specialises in treatment related to viral fever",
+      "education": [
+        "BHMS-B.J. Government Medical College",
+        "DNB-B.J. Government Medical College"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr019",
+      "name": "Dr. Avinash Deore:",
+      "specialization": "Panchakarma therapies, infertility and sexual health concerns",
+      "qualification": "BAMS, MD",
+      "experience": "21 years",
+      "rating": 4.8,
+      "reviewsCount": 266,
+      "consultationFee": 500,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "1st Floor, , Kohinoor Arcade, Near Overbridge, Mumbai-Pune Road, Nigdi-",
+        "hospital": "Sai Clinic And Ayurvedic Panchakarma Consultant"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-13:00",
+          "10:00-13:00",
+          "10:00-13:00",
+          "10:00-13:00",
+          "10:00-13:00",
+          "10:00-13:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09405060973",
+        "email": "@gmail.com"
+      },
+      "services": [
+        "Erectile Dysfunction",
+        "Panhakarma Treatment",
+        "Ovarian Diseases"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Reliable MD Ayurvedic doctor with 20 years of experience; specializing in PCOD, infertility, and gynecology.",
+      "education": [
+        " BAMS- Ayurveda Mahavidyalaya, Wagholi",
+        "MD (Ayurveda Medicine) - Maharashtra University of Health Sciences, Nashik."
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr020",
+      "name": "Dr. Dinesh Kabre",
+      "specialization": "Endoscopic spine surgery,Orthopedist",
+      "qualification": "DNB",
+      "experience": "25 years",
+      "rating": 4.9,
+      "reviewsCount": 222,
+      "consultationFee": 150,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "SEI 4/1, Plot No, Telco Rd, near KSB Pumps, D-II Block, MIDC, Chinchwad",
+        "hospital": "Kabre Orthopaedic Spine & Dental Centre"
+      },
+      "availability": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "12:00-14:00",
+          " 11:30-14:30, 18:00-20:00",
+          " 11:30-14:30, 18:00-20:00",
+          " 11:30-14:30, 18:00-20:00",
+          " 11:30-14:30, 18:00-20:00",
+          " 11:30-14:30, 18:00-20:00",
+          " 11:30-14:30, 18:00-20:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09822214737",
+        "email": "kabredinesh888@gmail.com"
+      },
+      "services": [
+        "Endoscopic Spine",
+        "Spine Surgery",
+        "Bone Tumor(Neoplasm)"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": " With over 20 years of experience, his expertise includes endoscopic spine surgery, non-operative spine and joint treatments, and stem cell therapy. ",
+      "education": [
+        "DNB- Orthopedics/Orthopedic Surgery- National Board Of Examination",
+        "MS- Orthopaedics- B. J. Medical College, Pune, India",
+        "MBBS- B. J. Medical College, Pune, India"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr021",
+      "name": "Dr. Shilpa Dane",
+      "specialization": "Family Physician, General Physician",
+      "qualification": "MBBS, DNB - Family Medicine",
+      "experience": "20 years",
+      "rating": 4,
+      "reviewsCount": 163,
+      "consultationFee": 600,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "A-5 PCMC Housing Society, near SS Ajmera School, Pimpri Colony, Pimpri-Chinchwad",
+        "hospital": "Dev Clinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "11:00-13:00, 18:00-20:30",
+          "11:00-13:00, 18:00-20:30",
+          "11:00-13:00, 18:00-20:30",
+          "11:00-13:00, 18:00-20:30",
+          "11:00-13:00, 18:00-20:30",
+          "11:00-13:00, 18:00-20:30"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09970202297",
+        "email": "shilpa56@gmail.com"
+      },
+      "services": [
+        "Cardio-Diabetology ",
+        "Skin Aesthetics"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 20 years of experience in healthcare, she is a specialist consultant, Non-Interventional Cardiologist & Diabetologist ",
+      "education": [
+        " MBBS-Maharashtra University of Health Sciences ",
+        " MD, DNB (Medicine)-National Board Of Examination, New Delhi. "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr022",
+      "name": "Dr. Vivek Bonde",
+      "specialization": "Neurosurgeon,Spine Surgeon (Neuro)",
+      "qualification": "MS - General Surgery, MCh - Neuro Surgery, MBBS",
+      "experience": "28 years",
+      "rating": 4.9,
+      "reviewsCount": 144,
+      "consultationFee": 500,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "MQ2M+P94, Old Mumbai - Pune Hwy, Next to Collection O 74312 Hotel Kundan Palace, opposite to Force Motors Corporate Office, Akurdi Gaothan,\n                   Vivek Nagar, Akurdi",
+        "hospital": "Star Hospital "
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "timeSlots": [
+          "15:00-18:00",
+          "15:00-18:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "07798908880",
+        "email": "bondevivek33@gmail.com"
+      },
+      "services": [
+        "brain surgery",
+        "spinal surgery",
+        "general neurosurgery, and peripheral neurosurgery"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Experienced Neurosurgeon practicing in Pune and PCMC since last 12 years is known for his excellent clinical, surgical skills and ethical humane approach.",
+      "education": [
+        " MBBS- Bharati Vidyapeeth's Medical College,Pune",
+        "MS in General Surgery- B. J. Medical College in Pune",
+        " M.Ch in Neurosurgery- G.S. Medical College "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr023",
+      "name": "Dr. Nikhil Jillawar",
+      "specialization": "surgical gastroenterologist, ",
+      "qualification": "MBBS, MS, and M.Ch in Surgical Gastroenterology. ",
+      "experience": "10 years",
+      "rating": 4.7,
+      "reviewsCount": 92,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Hindustan Antibiotics Colony, Pimpri Colony, Pimpri-Chinchwad",
+        "hospital": "Divine superspeaciity hospital"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "9:00-20:00",
+          "9:00-20:00",
+          "9:00-20:00",
+          "9:00-20:00",
+          "9:00-20:00",
+          "9:00-20:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "08048037739",
+        "email": "nikhil666@gmail.com"
+      },
+      "services": [
+        "bariatric surgery",
+        "liver transplants",
+        "gastrointestinal and hepatobiliary conditions"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "He has experience of 10 years in this field of surgical gastroenterology GI oncology and hepatobiliary& transplant surgery",
+      "education": [
+        "MBBS: Government Medical College, Nanded",
+        "MS (General Surgery): Government Medical College, Nagpur",
+        "Fellowship in Bariatric Surgery: Max Superspeciality Hospital, New Delhi. "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr024",
+      "name": "Dr. Parag Patil",
+      "specialization": "General Practitioner, General Physician",
+      "qualification": "MBBS",
+      "experience": "20 years",
+      "rating": 4.8,
+      "reviewsCount": 189,
+      "consultationFee": 200,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Samarth Plaza, Bharatmata Society Ln, Atharv Park Society, Green Park Society, Bijlinagar, Nigdi",
+        "hospital": "Shriyash Clinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-22:00",
+          "10:00-22:00",
+          "10:00-22:00",
+          "10:00-22:00",
+          "10:00-22:00",
+          "10:00-22:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "9585739584",
+        "email": "paragpatil491@gmail.com"
+      },
+      "services": [
+        "Allergic Diagnosis",
+        "accurate diagnoses",
+        "conventional medicine"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Parag P Patil is an expert and experienced General Physician with an experience of 7years. The doctor specializes in General Physician",
+      "education": [
+        "MBBS: B.J. Government Medical College and Sassoon General Hospitals, Pune."
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr025",
+      "name": "Dr. Rupali Ekbote ",
+      "specialization": "ENT/ Otorhinolaryngologist",
+      "qualification": "MBBS, Diploma in Otorhinolaryngology (DLO)",
+      "experience": "20 years",
+      "rating": 4.5,
+      "reviewsCount": 203,
+      "consultationFee": 350,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Shop No 8, Harmony complex, Police Station, ENT Solutions, opposite Ravet, Sector 32 A, Ravet",
+        "hospital": "Ashwin Medical Foundation's Moraya Multispeciality Hospital"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "11:00-14:00, 18:30-20:30",
+          "11:00-14:00, 18:30-20:30",
+          "11:00-14:00, 18:30-20:30",
+          "11:00-14:00, 18:30-20:30",
+          "11:00-14:00, 18:30-20:30",
+          "11:00-14:00, 18:30-20:30"
+        ]
+      },
+      "contactInfo": {
+        "phone": "07972516512",
+        "email": "rupali61@gmail.com"
+      },
+      "services": [
+        "Congenital ear problems",
+        "Tympanoplasty, Mastoid surgery",
+        "Tonsillitis and tonsillectomy",
+        "Throat and oral cavity issues"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "Dr. Ekbote is a reliable and experienced ENT consultant and surgeon, with over 10 years of experience in ear, nose, and throat surgeries.",
+      "education": [
+        "MBBS - Pune University",
+        "Diploma in Otorhinolaryngology (DLO)- College of Physicians and Surgeons , Mumbai"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr026",
+      "name": "Dr. Mahesh Jadhav",
+      "specialization": "General Physician,MD Medicine and Diabetologist",
+      "qualification": "DNB, MBBS",
+      "experience": "14 years",
+      "rating": 4.9,
+      "reviewsCount": 324,
+      "consultationFee": 300,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Sector No-29, Atharvam Diagnostics And Polyclinic, Pristine Shatrunjay,C-Wing, Dr Mahesh Jadhav, opposite Ojas Hospital, Ravet",
+        "hospital": "Atharvam Diagnostics and Polyclinic"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "10:00-14:00, 17:30-22:00",
+          "10:00-14:00, 17:30-22:00",
+          "10:00-14:00, 17:30-22:00",
+          "10:00-14:00, 17:30-22:00",
+          "10:00-14:00, 17:30-22:00",
+          "10:00-14:00, 17:30-22:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "09370493610",
+        "email": "maheshjadhav703@gmail.com"
+      },
+      "services": [
+        "Diabetology",
+        "Hypertension",
+        "Thyroid disorders",
+        "Fever and infectious diseases"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "He is frequently cited as one of the best general physicians in Ravet. He is an MD in Medicine and a Diabetologist with over 14 years of experience. ",
+      "education": [
+        " DNB - General Medicine from MGM Medical College, Aurangabad",
+        "MBBS from Maharashtra Universtity of Health Sciences, Nashik "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr027",
+      "name": "Dr. Pushkar Galam",
+      "specialization": ": General Surgeon (focusing on minimally invasive and laparoscopic procedures)",
+      "qualification": "MS, MBBS FMAS",
+      "experience": "9 years",
+      "rating": 4.9,
+      "reviewsCount": 36,
+      "consultationFee": 400,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "Bhondave, corner, DY Patil College Rd, Ravet, Pune, Maharashtra 412101",
+        "hospital": "Ojas Multispeciality Hospital"
+      },
+      "availability": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "9:00-21:00",
+          "9:00-21:00",
+          "9:00-21:00",
+          "9:00-21:00",
+          "9:00-21:00",
+          "9:00-21:00",
+          "9:00-21:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "08888588880",
+        "email": "pushkar351@gmail.com"
+      },
+      "services": [
+        "Endoscopic Surgery, Laparoscopic Surgery",
+        "Hemorrhoids"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "He is a Laparoscopic and General Surgeon with over 13 years of experience",
+      "education": [
+        "MS (General Surgery)- MUHS NASHIK",
+        "MBBS- MUHS NASHIK",
+        "FMAS- AMASI "
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    },
+    {
+      "id": "dr028",
+      "name": "Dr.Ranjit Umap",
+      "specialization": "General Physician",
+      "qualification": "MD, BHMS",
+      "experience": "5 years",
+      "rating": 4.9,
+      "reviewsCount": 393,
+      "consultationFee": 150,
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "address": "185/3/26, Shinde Wasti Rd, Ganesh Nagar, Ravet",
+        "hospital": "Dr. Umap's Dental Care & Implant Center"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "timeSlots": [
+          "9:00-22:00",
+          "9:00-22:00",
+          "9:00-22:00",
+          "9:00-22:00",
+          "9:00-22:00",
+          "9:00-22:00"
+        ]
+      },
+      "contactInfo": {
+        "phone": "77750 68428",
+        "email": "ranjit944@gmail.com"
+      },
+      "services": [
+        "Typhoid treatment",
+        "Dental care",
+        "Dental Implant"
+      ],
+      "languages": [
+        "English,Hindi,Marathi"
+      ],
+      "image": "",
+      "bio": "With over 5 years of experience in healthcare, he specialises in typhoid and dental implants",
+      "education": [
+        "MD- BJMC, Pune",
+        "BHMS- BJMC, Pune"
+      ],
+      "insuranceAccepted": [
+        "Blue Cross",
+        "Aetna",
+        "Cigna",
+        "UnitedHealth"
+      ],
+      "isAvailable": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-10-12T10:57:00Z"
+    }
+  ],
+  "metadata": {
+    "totalDoctors": 28,
+    "lastUpdated": "2024-10-12T10:57:00Z",
+    "version": "1.0.0"
+  }
+}
